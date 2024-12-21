@@ -140,7 +140,7 @@ export const projects = [
       "/firebase.svg",
       "/redux.svg",
       "/nodejs.svg",
-      "/supabase.svg",
+      "/mongodb.svg",
     ],
     link: "https://urban-square.onrender.com",
     tech: [
